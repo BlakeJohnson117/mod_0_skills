@@ -1,0 +1,9 @@
+Employee
+
+Age (Integer)
+Position (String)
+Salary (Float)
+
+Add_Employee (This would add a new member to the team. No current Attributes would be effected)
+Fire_Employee (This would get rid of an employee.  No current attributes would be effected)
+Promote_Employee (This would change the position of the employee.  The position attribute would be effected)
