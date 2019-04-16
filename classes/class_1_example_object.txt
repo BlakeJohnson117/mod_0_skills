@@ -1,0 +1,9 @@
+David
+
+Age=21
+Position="Cook"
+Salary = 35000.00
+
+Add_Employee (This would add David to the Employee Roster)
+Fire_Employee (This would fire David and remove him from the Employee Roster)
+Promote_Employee (This would result in David's position and salary changing)
