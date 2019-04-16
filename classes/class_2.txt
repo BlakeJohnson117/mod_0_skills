@@ -1,0 +1,9 @@
+Food
+
+Price (Float)
+Name "String"
+Contain Nuts (Boolean)
+
+Update_Price (This will update the price of a selected food item.  It will have an effect on the Price attribute)
+Add_Food (This will add a new food item to our Menu. It will have an effect on the attributes, as new attributes will have to be assigned to the particular food item)
+Remove_Nuts (This will remove the nuts from a food.  It will have an effect on the Contains Nuts attribute)
