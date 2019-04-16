@@ -1,0 +1,9 @@
+Orange Chicken
+
+Price=13.95
+Name="General Tso's Orange Chicken"
+Contains Nuts = TRUE
+
+Using the Update_Price method will allow us to update our price to a lower price if we want to run a sale.  The result would be the price attribute lowering
+Using the Add_Food method would add Orange Chicken to the Menu
+Using the Remove_Nuts method would remove the nuts from the Orange Chicken and change the Contains Nuts attribute to FALSE
