@@ -1,0 +1,10 @@
+City Park
+
+Acres (Float)
+Amenities (Array)
+Alcohol Permitted (Boolean)
+Parking Spaces (Integer)
+
+Add_Amenities (This will add more amenities to the park. It will have an effect on the amenities attribute)
+Update_Alcohol_Policy (This will update if alcohol is allowed within the park.  This method will have an effect of the Alcohol Permitted attribute)
+Remove_Parking_Spaces (This will remove parking spaces in case the city wishes to cut down on fillable parking spaces.  This will have a direct effect on the Parking Spaces attribute)
