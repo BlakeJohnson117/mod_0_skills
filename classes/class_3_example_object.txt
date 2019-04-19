@@ -1,0 +1,10 @@
+Central Park
+
+Acres = 36.5
+Amenities = ("Pond", "Dining Tables", "Bathrooms", "Rock Climbing Wall")
+Alcohol Permitted = FALSE
+Parking Spaces = 36
+
+Using the Add_Amenities method will allow us to add additional amenities to the amenities array.  The result would be more amenities and things for visitors to do.
+If we use the Update_Alcohol_Policy method we can update if our park allows alcohol or not.  Currently our Alcohol Permitted attributed is set to FALSE; however, we can change it TRUE to allow the consumption of alcohol.
+The Remove_Parking_Spaces method allows us to remove parking from our park.  Currently we have 36 parking spaces; however using the method, we can lower the amount of parking spaces.
